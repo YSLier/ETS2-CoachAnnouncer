@@ -1,0 +1,13 @@
+{
+  "language": {"en": "English", "zh": "简体中文"},
+  "plugin": {"description": "在游戏内调整 CoachAnnouncer 线路目标、试听和广播设置。"},
+  "panel": {
+    "language": "zh",
+    "title": "CoachAnnouncer 快捷设置",
+    "description": "客运线路、广播试听与设置。"
+  },
+  "shortcut": {
+    "title": "打开或关闭 CoachAnnouncer 面板",
+    "description": "显示或隐藏 CoachAnnouncer 窗口。"
+  }
+}

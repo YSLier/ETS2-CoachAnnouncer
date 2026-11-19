@@ -1,0 +1,13 @@
+{
+  "language": {"en": "English", "zh": "简体中文"},
+  "plugin": {"description": "In-game route, broadcast and audio controls."},
+  "panel": {
+    "language": "en",
+    "title": "CoachAnnouncer Quick Settings",
+    "description": "Coach route, preview player and broadcast settings."
+  },
+  "shortcut": {
+    "title": "Toggle CoachAnnouncer panel",
+    "description": "Show or hide the CoachAnnouncer window."
+  }
+}

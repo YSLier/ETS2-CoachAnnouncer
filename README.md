@@ -6,7 +6,7 @@ ETS2 Coaches DLC 四语客车报站插件，面向 Windows x64 和 ETS2 1.62.x�
 
 **当前发布版本为 v0.7.3。**
 
-[下载 v0.7.3](https://github.com/YSLier/CoachAnnouncer/releases/tag/v0.7.3)
+[下载 v0.7.3](https://github.com/YSLier/ETS2-CoachAnnouncer/releases/tag/v0.7.3)
 
 ## 功能
 
